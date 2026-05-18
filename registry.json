@@ -1,0 +1,72 @@
+{
+  "name": "cc-engine Plugin Repository",
+  "description": "cc-engine 官方插件仓库",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "id": "weather",
+      "name": "Weather",
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "description": "天气查询插件，基于 wttr.in 免费 API，无需 API Key",
+      "author": "cc-engine",
+      "license": "MIT",
+      "tags": ["weather", "utility", "free"],
+      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/weather",
+      "main": "index.js",
+      "files": ["index.js", "plugin.json"]
+    },
+    {
+      "id": "web-search",
+      "name": "Web Search",
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "description": "搜索引擎插件，支持 Google/Bing/DuckDuckGo",
+      "author": "cc-engine",
+      "license": "MIT",
+      "tags": ["search", "web"],
+      "uploadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/web-search",
+      "main": "index.js",
+      "files": ["index.js", "plugin.json"]
+    },
+    {
+      "id": "translator",
+      "name": "Translator",
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "description": "多语言翻译插件，支持 DeepL/Google Translate",
+      "author": "cc-engine",
+      "license": "MIT",
+      "tags": ["translate", "i18n"],
+      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/translator",
+      "main": "index.js",
+      "files": ["index.js", "plugin.json"]
+    },
+    {
+      "id": "rss-reader",
+      "name": "RSS Reader",
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "description": "RSS 订阅源读取和摘要生成",
+      "author": "cc-engine",
+      "license": "MIT",
+      "tags": ["rss", "news"],
+      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/rss-reader",
+      "main": "index.js",
+      "files": ["index.js", "plugin.json"]
+    },
+    {
+      "id": "code-runner",
+      "name": "Code Runner",
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "description": "在沙箱中运行 Python/JavaScript 代码",
+      "author": "cc-engine",
+      "license": "MIT",
+      "tags": ["code", "execution", "sandbox"],
+      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/code-runner",
+      "main": "index.js",
+      "files": ["index.js", "plugin.json"]
+    }
+  ]
+}
