@@ -1,0 +1,10 @@
+{
+  "id": "translator",
+  "name": "Translator",
+  "version": "1.0.0",
+  "description": "多语言翻译插件",
+  "author": "cc-engine",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js", "plugin.json"]
+}
