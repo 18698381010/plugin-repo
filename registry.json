@@ -12,7 +12,7 @@
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["weather", "utility", "free"],
-      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/weather",
+      "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/weather",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     },
@@ -25,7 +25,7 @@
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["search", "web"],
-      "uploadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/web-search",
+      "uploadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/web-search",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     },
@@ -38,7 +38,7 @@
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["translate", "i18n"],
-      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/translator",
+      "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/translator",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     },
@@ -51,7 +51,7 @@
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["rss", "news"],
-      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/rss-reader",
+      "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/rss-reader",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     },
@@ -64,7 +64,7 @@
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["code", "execution", "sandbox"],
-      "downloadUrl": "https://raw.githubusercontent.com/openclaw/plugin-repo/main/plugins/code-runner",
+      "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/code-runner",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     }
