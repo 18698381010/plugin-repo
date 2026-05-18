@@ -2,7 +2,7 @@
   "id": "rss-reader",
   "name": "RSS Reader",
   "version": "1.0.0",
-  "description": "RSS 订阅源读取",
+  "description": "RSS 订阅源读取，自动解析并输出标题+摘要+链接",
   "author": "cc-engine",
   "license": "MIT",
   "main": "index.js",
