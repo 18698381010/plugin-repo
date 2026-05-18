@@ -1,0 +1,10 @@
+{
+  "id": "code-runner",
+  "name": "Code Runner",
+  "version": "1.0.0",
+  "description": "沙箱代码运行器",
+  "author": "cc-engine",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js", "plugin.json"]
+}
