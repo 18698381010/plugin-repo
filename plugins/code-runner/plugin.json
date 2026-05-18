@@ -2,7 +2,7 @@
   "id": "code-runner",
   "name": "Code Runner",
   "version": "1.0.0",
-  "description": "沙箱代码运行器",
+  "description": "在安全沙箱中运行 JavaScript/Python 代码，捕获输出和错误",
   "author": "cc-engine",
   "license": "MIT",
   "main": "index.js",
