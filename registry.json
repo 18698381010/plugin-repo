@@ -1,7 +1,7 @@
 {
   "name": "cc-engine Plugin Repository",
   "description": "cc-engine 官方插件仓库",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "plugins": [
     {
       "id": "weather",
@@ -21,11 +21,11 @@
       "name": "Web Search",
       "version": "1.0.0",
       "latestVersion": "1.0.0",
-      "description": "搜索引擎插件，支持 Google/Bing/DuckDuckGo",
+      "description": "网页搜索引擎，基于 DuckDuckGo 免费搜索，含缓存和过滤",
       "author": "cc-engine",
       "license": "MIT",
-      "tags": ["search", "web"],
-      "uploadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/web-search",
+      "tags": ["search", "web", "utility"],
+      "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/web-search",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
     },
@@ -34,10 +34,10 @@
       "name": "Translator",
       "version": "1.0.0",
       "latestVersion": "1.0.0",
-      "description": "多语言翻译插件，支持 DeepL/Google Translate",
+      "description": "多语言翻译，基于 LibreTranslate 免费 API，无需 Key",
       "author": "cc-engine",
       "license": "MIT",
-      "tags": ["translate", "i18n"],
+      "tags": ["translate", "i18n", "utility"],
       "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/translator",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
@@ -47,10 +47,10 @@
       "name": "RSS Reader",
       "version": "1.0.0",
       "latestVersion": "1.0.0",
-      "description": "RSS 订阅源读取和摘要生成",
+      "description": "RSS 订阅源读取，自动解析并输出标题+摘要+链接",
       "author": "cc-engine",
       "license": "MIT",
-      "tags": ["rss", "news"],
+      "tags": ["rss", "news", "utility"],
       "downloadUrl": "https://raw.githubusercontent.com/18698381010/plugin-repo/main/plugins/rss-reader",
       "main": "index.js",
       "files": ["index.js", "plugin.json"]
@@ -60,7 +60,7 @@
       "name": "Code Runner",
       "version": "1.0.0",
       "latestVersion": "1.0.0",
-      "description": "在沙箱中运行 Python/JavaScript 代码",
+      "description": "在安全沙箱中运行 JavaScript/Python 代码，捕获输出和错误",
       "author": "cc-engine",
       "license": "MIT",
       "tags": ["code", "execution", "sandbox"],
