@@ -1,0 +1,10 @@
+{
+  "id": "web-search",
+  "name": "Web Search",
+  "version": "1.0.0",
+  "description": "搜索引擎插件，支持 Google/Bing/DuckDuckGo",
+  "author": "cc-engine",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js", "plugin.json"]
+}
