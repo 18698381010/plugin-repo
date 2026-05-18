@@ -1,0 +1,13 @@
+{
+  "id": "weather",
+  "name": "Weather",
+  "version": "1.0.0",
+  "description": "天气查询插件，基于 wttr.in 免费 API",
+  "author": "cc-engine",
+  "license": "MIT",
+  "main": "index.js",
+  "files": ["index.js", "plugin.json"],
+  "config": {
+    "defaultCity": "Beijing"
+  }
+}
